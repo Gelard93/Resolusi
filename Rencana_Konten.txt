@@ -5,7 +5,6 @@ Rencana Konten
 #Ini adalah Sebuah Komentar
 - Fundamental Data Dasar
 - PHP Frameworks
-   ^ Laravel
 - Interview
 - Vlogs
 - Python

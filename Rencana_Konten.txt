@@ -2,10 +2,8 @@ Rencana Konten
 #Belajar Pemrograman
 - JavaScript
   * ES6
-  * Framework Javascript
 - Fundamental Data Dasar
 - PHP Frameworks
-   ^ Laravel
 - Interview
 - Vlogs
 - Python

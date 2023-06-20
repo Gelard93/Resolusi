@@ -2,7 +2,6 @@ Rencana Konten
 #Belajar Pemrograman
 - JavaScript
   * ES6
-#Ini adalah Sebuah Komentar
 - Fundamental Data Dasar
 - PHP Frameworks
 - Interview

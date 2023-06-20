@@ -2,9 +2,6 @@ Rencana Konten
 
 - JavaScript
   * ES6
-  * Framework Javascript
-   ^ Vue
-   ^ React
 #Ini adalah Sebuah Komentar
 - Fundamental Data Dasar
 - PHP Frameworks

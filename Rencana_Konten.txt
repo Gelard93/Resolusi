@@ -3,9 +3,11 @@ Rencana Konten
 - JavaScript
   * ES6
   * Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
+- Fundamental Data Dasar
 - PHP Frameworks
-  * Laravel
+   ^ Laravel
 - Interview
 - Vlogs
+- Python

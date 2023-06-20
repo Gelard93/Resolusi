@@ -4,3 +4,4 @@ Resolusi
 - Membuat Forum Diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat Vlog
+- Sedang Latihan Menggunakan Github
